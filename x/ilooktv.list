@@ -1,0 +1,9 @@
+# NAME: ilooktv
+# AUTHOR: Jennie324
+# REPO: https://github.com/Jennie324/rule
+# UPDATED: 2024-11-23 16:16:10
+HOST,roctv.megatv.fun,ilooktv
+HOST-SUFFIX,megatv.fun,ilooktv
+IP-CIDR,5.182.228.0/24,ilooktv
+IP-CIDR,92.119.88.0/24,ilooktv
+IP-CIDR,213.183.40.0/24,ilooktv
