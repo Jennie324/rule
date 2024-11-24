@@ -1,0 +1,16 @@
+# NAME: AppleRadio
+# AUTHOR: Jennie324
+
+
+HOST,radio.itunes.apple.com,AppleRadio
+HOST,radio-activity.itunes.apple.com,AppleRadio
+
+HOST,open.live.bbc.co.uk,AppleRadio
+HOST,a.files.bbci.co.uk,AppleRadio
+HOST,us.api.iheart.com,AppleRadio
+
+HOST-SUFFIX,ihrhls.com,AppleRadio
+HOST-SUFFIX,iheart.com,AppleRadio
+
+HOST-SUFFIX,bbc.co.uk,AppleRadio
+HOST-SUFFIX,bbci.co.uk,AppleRadio
