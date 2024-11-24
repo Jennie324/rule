@@ -1,9 +1,16 @@
 # NAME: AppleMusic
 # AUTHOR: Jennie324
 
-HOST-SUFFIX,music.apple.com,AppleMusic
-HOST-SUFFIX,radio.itunes.apple.com,AppleMusic
-HOST-SUFFIX,radio-activity.itunes.apple.com,AppleMusic
+
+HOST,radio.itunes.apple.com,AppleMusic
+HOST,radio-activity.itunes.apple.com,AppleMusic
+
+HOST,open.live.bbc.co.uk,AppleMusic
+HOST,a.files.bbci.co.uk,AppleMusic
+HOST,us.api.iheart.com,AppleMusic
+
 HOST-SUFFIX,ihrhls.com,AppleMusic
 HOST-SUFFIX,iheart.com,AppleMusic
-HOST-SUFFIX,us.api.iheart.com,AppleMusic
+
+HOST-SUFFIX,bbc.co.uk,AppleMusic
+HOST-SUFFIX,bbci.co.uk,AppleMusic
