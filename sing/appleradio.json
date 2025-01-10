@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "radio.itunes.apple.com",
+        "radio-activity.itunes.apple.com",
+        "open.live.bbc.co.uk",
+        "a.files.bbci.co.uk",
+        "us.api.iheart.com",
+        "ihrhls.com",
+        "iheart.com",
+        "bbc.co.uk",
+        "bbci.co.uk"
+      ]
+    }
+  ]
+}
