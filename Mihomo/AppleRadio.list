@@ -1,5 +1,4 @@
 # 规则名称: AppleRadio
-# 规则统计: 40
 
 DOMAIN-SUFFIX,radio-activity.itunes.apple.com
 DOMAIN-SUFFIX,radio.itunes.apple.com
