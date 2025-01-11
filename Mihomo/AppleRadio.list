@@ -1,0 +1,12 @@
+# 规则名称: AppleRadio
+# 规则统计: 40
+
+DOMAIN-SUFFIX,radio-activity.itunes.apple.com
+DOMAIN-SUFFIX,radio.itunes.apple.com
+DOMAIN-SUFFIX,open.live.bbc.co.uk
+DOMAIN-SUFFIX,a.files.bbci.co.uk
+DOMAIN-SUFFIX,us.api.iheart.com
+DOMAIN-SUFFIX,ihrhls.com
+DOMAIN-SUFFIX,iheart.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbc.co.uk
