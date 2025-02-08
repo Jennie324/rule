@@ -12,25 +12,14 @@
         "iheart.com",
         "bbc.co.uk",
         "bbci.co.uk",
-        "n0ca-e2.revma.ihrhls.com",
-        "n01a-e2.revma.ihrhls.com",
-        "n02a-e2.revma.ihrhls.com",
-        "n03a-e2.revma.ihrhls.com",
-        "n04a-e2.revma.ihrhls.com",
-        "n05a-e2.revma.ihrhls.com",
-        "n06a-e2.revma.ihrhls.com",
-        "n07a-e2.revma.ihrhls.com",
-        "n08a-e2.revma.ihrhls.com",
-        "n09a-e2.revma.ihrhls.com",
-        "n10a-e2.revma.ihrhls.com",
-        "n11a-e2.revma.ihrhls.com",
-        "n12a-e2.revma.ihrhls.com",
-        "n13a-e2.revma.ihrhls.com",
-        "n14a-e2.revma.ihrhls.com",
-        "n15a-e2.revma.ihrhls.com",
-        "n16a-e2.revma.ihrhls.com",
-        "stream.revma.ihrhls.com",
         "ihrhls.com"
+      ]
+    }
+    {
+      "domain_suffix": [
+        "ihrhls.com",
+        "iheart.com",
+        "bbc.co.uk",
       ]
     }
   ]
