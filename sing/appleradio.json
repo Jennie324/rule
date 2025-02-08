@@ -10,10 +10,10 @@
           "us.api.iheart.com"
         ],
         "domain_suffix": [
-            "iheart.com",
-            "bbc.co.uk",
-            "bbci.co.uk",
-            "ihrhls.com"
+          "revma.ihrhls.com",
+          "iheart.com",
+          "ihrhls.com",
+          "co.uk"
         ]
       }
     ]
