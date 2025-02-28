@@ -1,0 +1,5 @@
+# NAME: ilooktv
+  - DOMAIN-SUFFIX,roctv.megatv.fun
+  - IP-CIDR,5.182.228.0/24,no-resolve
+  - IP-CIDR,92.119.88.0/24,no-resolve
+  - IP-CIDR,213.183.40.0/24,no-resolve
