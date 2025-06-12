@@ -1,5 +1,8 @@
 # NAME: ilooktv
   - DOMAIN-SUFFIX,roctv.megatv.fun
+  - DOMAIN-SUFFIX,laotaiwan.ottclub.xyz
+  - DOMAIN-SUFFIX,axygntk8.ottclub.xyz
+  - DOMAIN-SUFFIX,alicetv.cc
   - IP-CIDR,5.182.228.0/24,no-resolve
   - IP-CIDR,92.119.88.0/24,no-resolve
   - IP-CIDR,213.183.40.0/24,no-resolve
