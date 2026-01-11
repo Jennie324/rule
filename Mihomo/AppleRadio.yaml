@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,radio-activity.itunes.apple.com
   - DOMAIN-SUFFIX,radio.itunes.apple.com
   - DOMAIN-SUFFIX,client-api.itunes.apple.com
+  - DOMAIN-SUFFIX,amp-api.music.apple.com
   - DOMAIN-SUFFIX,open.live.bbc.co.uk
   - DOMAIN-SUFFIX,a.files.bbci.co.uk
   - DOMAIN-SUFFIX,us.api.iheart.com
