@@ -8,7 +8,8 @@ payload:
   - DOMAIN-SUFFIX,open.live.bbc.co.uk
   - DOMAIN-SUFFIX,a.files.bbci.co.uk
   - DOMAIN-SUFFIX,us.api.iheart.com
-  - DOMAIN-SUFFIX,revma.ihrhls.com
+  - DOMAIN-SUFFIX,cloud.revma.ihrhls.com
+  - DOMAIN-SUFFIX,stream.revma.ihrhls.com
   - DOMAIN-SUFFIX,ihrhls.com
   - DOMAIN-SUFFIX,iheart.com
   - DOMAIN-SUFFIX,bbc.co.uk
