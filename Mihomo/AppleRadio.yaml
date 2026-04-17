@@ -1,17 +1,14 @@
 # NAME: AppleRadio
 payload:
-  - DOMAIN-SUFFIX,radio-activity.itunes.apple.com
+  - DOMAIN-SUFFIX,xp.apple.com,AppleRadio
   - DOMAIN-SUFFIX,radio.itunes.apple.com
-  - DOMAIN-SUFFIX,client-api.itunes.apple.com
-  - DOMAIN-SUFFIX,guzzoni.apple.com:443
+  - DOMAIN-SUFFIX,se2.itunes.apple.com
+  - DOMAIN-SUFFIX,musicstatus.itunes.apple.com
   - DOMAIN-SUFFIX,amp-api.music.apple.com
-  - DOMAIN-SUFFIX,open.live.bbc.co.uk
-  - DOMAIN-SUFFIX,a.files.bbci.co.uk
-  - DOMAIN-SUFFIX,us.api.iheart.com
-  - DOMAIN-SUFFIX,cloud.revma.ihrhls.com
   - DOMAIN-SUFFIX,stream.revma.ihrhls.com
+  - DOMAIN-SUFFIX,cloud.revma.ihrhls.com
   - DOMAIN-SUFFIX,ihrhls.com
   - DOMAIN-SUFFIX,iheart.com
   - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-SUFFIX,co.uk
-  - DOMAIN-SUFFIX,thisisdax.com
