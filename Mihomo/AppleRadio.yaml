@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,se2.itunes.apple.com
   - DOMAIN-SUFFIX,musicstatus.itunes.apple.com
   - DOMAIN-SUFFIX,amp-api.music.apple.com
-  - DOMAIN-SUFFIX,streamtheworld.com
   - DOMAIN-SUFFIX,stream.revma.ihrhls.com
   - DOMAIN-SUFFIX,cloud.revma.ihrhls.com
   - DOMAIN-SUFFIX,ihrhls.com
