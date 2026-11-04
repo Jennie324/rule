@@ -1,6 +1,8 @@
 # NAME: AppleRadio
 payload:
   - DOMAIN,radio.itunes.apple.com
-  - DOMAIN,iheart.com
+  - DOMAIN,cloud.revma.ihrhls.com
+  - DOMAIN,stream.revma.ihrhls.com
   - DOMAIN,amperwave.net
   - DOMAIN,open.live.bbc.co.uk
+  - DOMAIN,iheart.com
