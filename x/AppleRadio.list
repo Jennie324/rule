@@ -1,7 +1,7 @@
-# NAME: AppleRadio
-# AUTHOR: Jennie324
-HOST-SUFFIX,radio.itunes.apple.com,AppleRadio
-HOST-SUFFIX,ihrhls.com,AppleRadio
-HOST-SUFFIX,iheart.com,AppleRadio
-HOST-SUFFIX,bbc.co.uk,AppleRadio
-HOST-SUFFIX,bbci.co.uk,AppleRadio
+# Apple Music Radio
+HOST-SUFFIX,radio.itunes.apple.com
+HOST-SUFFIX,ihrhls.com
+HOST-SUFFIX,iheart.com
+HOST-SUFFIX,amperwave.net
+HOST-SUFFIX,bbc.co.uk
+HOST-SUFFIX,bbci.co.uk
