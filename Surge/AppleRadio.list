@@ -1,7 +1,7 @@
 # Apple Music Radio
-DOMAIN-SUFFIX,radio.itunes.apple.com,AppleRadio
-DOMAIN-SUFFIX,ihrhls.com,AppleRadio
-DOMAIN-SUFFIX,iheart.com,AppleRadio
-DOMAIN-SUFFIX,amperwave.net,AppleRadio
-DOMAIN-SUFFIX,bbc.co.uk,AppleRadio
-DOMAIN-SUFFIX,bbci.co.uk,AppleRadio
+DOMAIN-SUFFIX,radio.itunes.apple.com
+DOMAIN-SUFFIX,ihrhls.com
+DOMAIN-SUFFIX,iheart.com
+DOMAIN-SUFFIX,amperwave.net
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
